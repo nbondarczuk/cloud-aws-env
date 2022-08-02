@@ -1,1 +1,1 @@
-# This is a TErraform stuff to create AWS project environment
+# This is a AWS Terraform stuff
