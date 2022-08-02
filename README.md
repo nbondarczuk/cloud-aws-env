@@ -1,1 +1,1 @@
-# This is a AWS Terraform stuff
+# This is Terraform stuff for AWS environment setup
